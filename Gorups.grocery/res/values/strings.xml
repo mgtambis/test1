@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_nameORIG">de.vogella.android.todos</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Hello World, Todo!</string>
+    <string name="app_name">Gorups Grocery</string>
+    <string name="no_todos">There are no items on the list</string>
+    <string name="menu_insert">Add Item</string>
+    <string name="menu_delete">Delete Task item</string>
+    <string name="todo_summary">Summary</string>
+    <string name="todo_description">Delete Task item</string>
+    <string name="todo_edit_summary">Summary</string>
+    <string name="todo_edit_description">Description</string>
+    <string name="todo_edit_confirm">Save</string>
+    <string name="todo_cancel">Cancel</string>
+    <string name="insert">Add Item</string>    
+    <string name="btntxtScan">Scan</string>    
+        
+
+</resources>
